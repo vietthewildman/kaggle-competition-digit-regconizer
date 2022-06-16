@@ -2,7 +2,7 @@
 This project includes a model and a webapp for online testing
 
 ## About the dataset:
-The dataset is provided by MNIST ("Modified National Institute of Standards and Technology"). It's tens of thousands of handwritten images. In my project, the dataset is loaded directly in keras. However, you can explore the dataset online [here](https://www.kaggle.com/competitions/digit-recognizer/data).
+The dataset is provided by MNIST ("Modified National Institute of Standards and Technology"). It's tens of thousands of handwritten images. In my project, the dataset is loaded directly from keras. However, you can explore the dataset online [here](https://www.kaggle.com/competitions/digit-recognizer/data).
 
 Each image is store in (28,28), with the respective label marked from 0-9.
 
