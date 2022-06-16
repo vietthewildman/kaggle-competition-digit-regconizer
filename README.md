@@ -7,8 +7,10 @@ Each image is store in (28,28), with the respective label marked from 0-9.
 
 ## The project structure
 ### Model:
-Deep Learning using CNN.
+[Code](https://github.com/vietthewildman/kaggle-competition-digit-regconizer/blob/main/digit-regconizer-mnist-CNN.ipynb)
+Deep Learning using CNN. You can quickly take a look at the saved model [here](https://github.com/vietthewildman/kaggle-competition-digit-regconizer/tree/main/saved_model)
 
 ### Webapp 
+[Code](https://github.com/vietthewildman/kaggle-competition-digit-regconizer/blob/main/webapp-deployment.ipynb)
 I have deployed a webapp for a quick interaction with the model. Users simply draw some separated digits and the model will do the predictions.
 ![webapp](https://user-images.githubusercontent.com/67698435/174094039-f345dbe8-6aec-4e81-9f2a-e2d9411ccfb1.PNG)
