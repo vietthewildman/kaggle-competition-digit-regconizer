@@ -10,7 +10,7 @@ Each image is store in (28,28), with the respective label marked from 0-9.
 ### Model:
 [Code](https://github.com/vietthewildman/kaggle-competition-digit-regconizer/blob/main/digit-regconizer-mnist-CNN.ipynb)
 
-Deep Learning using CNN. You can quickly take a look at the saved model [here](https://github.com/vietthewildman/kaggle-competition-digit-regconizer/tree/main/saved_model)
+Deep Learning using CNN. You can quickly take a look at the saved model [here](https://github.com/vietthewildman/kaggle-competition-digit-regconizer/tree/main/saved_model).
 
 ### Webapp 
 [Code](https://github.com/vietthewildman/kaggle-competition-digit-regconizer/blob/main/webapp-deployment.ipynb)
